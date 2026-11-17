@@ -1,2 +1,2 @@
-# playwright-showroom-js
+# playwright-automation
 Example playwright tests
